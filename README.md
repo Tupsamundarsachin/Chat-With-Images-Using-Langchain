@@ -1,12 +1,7 @@
 # ask-question-image-web-app-streamlit-langchain
 
 
-<p align="center">
-<a href="https://www.youtube.com/watch?v=71EOM5__vkI">
-    <img width="600" src="https://utils-computervisiondeveloper.s3.amazonaws.com/thumbnails/with_play_button/ask_question_image.jpg" alt="Watch the video">
-    </br>Watch on YouTube: Ask questions to an image using Python, Streamlit and Langchain !
-</a>
-</p>
+
 
 This is a Streamlit application that allows users to ask questions about an uploaded image and receive responses from a conversational AI agent. The agent uses the OpenAI GPT-3.5 Turbo model to generate answers based on the provided image and user input.
 
@@ -14,11 +9,11 @@ This is a Streamlit application that allows users to ask questions about an uplo
 
 1. Clone the repository:
 
-        git clone https://github.com/your-username/image-question-answering.git
+        
         
 2. Change to the project directory:
 
-        cd  ask-question-image-web-app-streamlit-langchain
+        cd  Chat-With-Images-Using-Langchain
         
 3. Install the required dependencies:
 
